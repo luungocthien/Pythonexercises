@@ -1,2 +1,2 @@
 user =input('Enter your name:\n')
-print('Hello! Nice to meet you,',user+'!')
+print(f'Hello! Nice to meet you, {user}!')
