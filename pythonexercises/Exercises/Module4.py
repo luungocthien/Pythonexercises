@@ -17,7 +17,7 @@ while n <= 1000:
 # except:
 #     print("Invalid input")
 
-
+# 3.
 # numbers = []
 # while True:
 #     try:
@@ -36,6 +36,7 @@ while n <= 1000:
 # else:
 #     print("No input")
 
+# 4.
 # import random
 # r_num = random.randint(1,10)
 # print(r_num)
@@ -54,6 +55,7 @@ while n <= 1000:
 # else:
 #     print("Game ended")
 
+# 5.
 # username = "python"
 # password = "rules"
 # input_username = None
@@ -69,6 +71,7 @@ while n <= 1000:
 # if input_username != username and input_password != password:
 #     print("Access denied")
 
+# 6.
 # import random
 # n_points = int(input("Enter the number of random points: "))
 # n = 0
