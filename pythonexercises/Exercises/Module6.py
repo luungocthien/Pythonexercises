@@ -68,6 +68,8 @@ def RollDice():
 # pizza2 = float(PizzaPriceCheck(p2d,p2p))
 # if pizza1 < pizza2:
 #     print("Pizza 1 is better for the money")
+# if pizza1 == pizza2:
+#     print("Both pizza costs the same")
 # else:
 #     print("Pizza 2 is better for the money")
 
